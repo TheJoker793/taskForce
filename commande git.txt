@@ -1,0 +1,4 @@
+cm1 1:git init: permet d'initialiser un repos de guit local
+cmd 2:git add --all ou guit add: permet d'ajouter les fichiers au staging area (ou index)
+cmd 3:git status: avoir les maj sur les repos 
+cmd 4:git commit -m"msg": envoyer les maj au repos local
